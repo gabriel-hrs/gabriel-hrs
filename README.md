@@ -5,7 +5,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/fb37c8e7b8004b91bc8d2e0586dcdb7b.png?r=g86"
+      src="https://github.com/gabriel_hrs/gabriel_hrs/blob/main/devcard.svg"
       alt="Gabriel Henrique's Dev Card"
     />
   </a>
